@@ -4,4 +4,5 @@ int main()
 {
 	std::cout << "New cout added in 1.cc" << std::endl;
 	std::cout << "Second cout added in 1.cc" << std::endl;
+	std::cout << "Third cout added in 1.cc" << std::endl;
 }
